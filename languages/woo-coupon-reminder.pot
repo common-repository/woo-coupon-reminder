@@ -1,0 +1,357 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coreem - Coupon Reminder for Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 08:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: woo-coupon-reminder"
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1211
+msgid "Action"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:193
+msgid "Add New"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:192
+msgid "Add New Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:145
+msgid ""
+"All initial settings of this plugin will be removed and invalid for outdated "
+"versions before version 2.0."
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:254
+msgid "background color:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1412
+msgid "Basic"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:233
+msgid "Button \"Shop now\" style:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:206
+msgid "Button \"Shop now\" title:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1247
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:62
+msgid "checked"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:94
+msgid "Choose email send before coupon expiry date"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:72
+msgid "Choose email send before coupon expiry date:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:144
+msgid "Coreem - Coupon Reminder for Woo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Coreem - Coupon Reminder for WooCommerce"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:214
+msgid "Coupon Email Reminder for WooCommerce"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:186
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:187
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1154
+msgid "Coupon Reminder"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:86
+msgid "Days"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:85
+msgid "days"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:148
+msgid "Dismiss"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1305
+msgid "Duplicate"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:195
+msgid "Edit Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:188
+msgid "Email Archives"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:189
+msgid "Email Attributes"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:130
+msgid "Email content"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:274
+msgid "Email field template"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:118
+msgid "Email header"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:106
+msgid "Email subject"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:100
+msgid "Email template:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:157
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:191
+msgid "Email Templates"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:184
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:185
+msgid "Email templates"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:208
+msgid "Emails list"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:209
+msgid "Emails list navigation"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:66
+msgid "Enable email template"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:56
+msgid "Enable template"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:202
+msgid "Featured Image"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:210
+msgid "Filter items list"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:239
+msgid "Font size:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:88
+msgid "Hours"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:87
+msgid "hours"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-coupon-reminder/"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:206
+msgid "Insert item"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:90
+msgid "Minutes"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:89
+msgid "minutes"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:928
+msgid "never expires"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:194
+msgid "New Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-schedule.php:120
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-statistics.php:89
+msgid "No items found."
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:162
+msgid "None"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:200
+msgid "Not found"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:201
+msgid "Not found in Trash"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:190
+msgid "Parent Email:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:865
+msgid "Preview emails"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:204
+msgid "Remove featured image"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:155
+msgid "Replace content email with:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:365
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-schedule.php:29
+msgid "Scan coupons"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:241
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:247
+msgid "Scheduled email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:199
+msgid "Search Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:197
+msgid ""
+"Select the template you created in the plugin \"Email Template Customizer "
+"for WooCommerce\" that you want to replace"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1210
+msgid "Send before"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:203
+msgid "Set featured image"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1432
+msgid "Shop now"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:242
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:259
+msgid "Statistics email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:382
+msgid "Template"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:248
+msgid "Text Color:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The plugin's user-friendly design helps manage coupons, sends reminder "
+"emails, and encourages customers to use coupons before expiration."
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:196
+msgid "Update Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:207
+msgid "Uploaded to this item"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:205
+msgid "Use as featured image"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:197
+msgid "View Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:198
+msgid "View Emails"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-schedule.php:15
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-schedule.php:16
+msgid "viwcr_schedule"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-statistics.php:14
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/woo-coupon-reminder-statistics.php:15
+msgid "viwcr_statistics"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/class-woo-coupon-reminder-admin.php:1385
+msgid "WooCommerce Coupon Reminders Email"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:137
+msgid ""
+"You can use the following shortcodes to add information to the body of an "
+"email:"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:141
+msgid "{coupon_amount} - Shop coupon amount"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:139
+msgid "{coupon_code} - Shop coupon code"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:140
+msgid "{coupon_des} - Shop coupon description"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:142
+msgid "{coupon_expiry} - Shop coupon expiry"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:143
+msgid "{use_coupon_button} - Use Coupon Button"
+msgstr ""
+
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:114
+#: E:/villatheme-2024/FREE-VERSION/woo-coupon-reminder/woo-coupon-reminder/admin/partials/display-detail-email-template-page.php:138
+msgid "{viwcr_site_title} - Your site title"
+msgstr ""

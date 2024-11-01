@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coreem - Coupon Reminder for Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 07:49+0000\n"
+"PO-Revision-Date: 2022-10-13 08:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: woo-coupon-reminder"
+
+#: admin/class-woo-coupon-reminder-admin.php:1353
+msgid "Action"
+msgstr "Thao tác"
+
+#: admin/class-woo-coupon-reminder-admin.php:219
+msgid "Add New"
+msgstr "Thêm Mới"
+
+#: admin/class-woo-coupon-reminder-admin.php:218
+msgid "Add New Email"
+msgstr "Thêm Email Mới"
+
+#: admin/class-woo-coupon-reminder-admin.php:167
+msgid ""
+"All initial settings of this plugin will be removed and invalid for outdated "
+"versions before version 2.0."
+msgstr ""
+"Cài đặt ban đầu của plugin này sẽ bị xóa và không còn khả dụng với bản cũ "
+"trước phiên bản 2.0."
+
+#: admin/partials/display-detail-email-template-page.php:243
+msgid "background color:"
+msgstr "màu nền:"
+
+#: admin/class-woo-coupon-reminder-admin.php:1588
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: admin/partials/display-detail-email-template-page.php:222
+msgid "Button \"Shop now\" style:"
+msgstr "Kiểu nút \"Mua hàng ngay\":"
+
+#: admin/partials/display-detail-email-template-page.php:195
+msgid "Button \"Shop now\" title:"
+msgstr "Tiêu đề nút \"Mua hàng ngay\":"
+
+#: admin/partials/display-detail-email-template-page.php:209
+msgid "Button \"Shop now\" URL"
+msgstr "Liên kết nút \"Mua hàng ngay\":"
+
+#: admin/class-woo-coupon-reminder-admin.php:1391 
+#: admin/partials/display-detail-email-template-page.php:68
+msgid "checked"
+msgstr "đã kiểm tra"
+
+#: admin/partials/display-detail-email-template-page.php:100
+msgid "Choose email send before coupon expiry date"
+msgstr "Chọn email được gửi trước khi phiếu giảm giá hết hạn"
+
+#: admin/partials/display-detail-email-template-page.php:78
+msgid "Choose email send before coupon expiry date:"
+msgstr "Chọn email được gửi trước khi phiếu giảm giá hết hạn:"
+
+#: admin/class-woo-coupon-reminder-admin.php:166
+msgid "Coreem - Coupon Reminder for Woo"
+msgstr "Coreem - Coupon Reminder for Woo"
+
+#. Name of the plugin
+msgid "Coreem - Coupon Reminder for WooCommerce"
+msgstr "Coreem - Coupon Reminder for WooCommerce"
+
+#: admin/class-woo-coupon-reminder-admin.php:240
+msgid "Coupon Email Reminder for WooCommerce"
+msgstr "Coupon Email Reminder for WooCommerce"
+
+#: admin/class-woo-coupon-reminder-admin.php:212 
+#: admin/class-woo-coupon-reminder-admin.php:213 
+#: admin/class-woo-coupon-reminder-admin.php:1285
+msgid "Coupon Reminder"
+msgstr "Coupon Reminder"
+
+#. Description of the plugin
+msgid "Create templates and schedule to coupon reminder emails"
+msgstr "Tạo mẫu và lên lịch gửi email nhắc dùng phiếu giảm giá"
+
+#: admin/partials/display-detail-email-template-page.php:92
+msgid "Days"
+msgstr "Ngày"
+
+#: admin/partials/display-detail-email-template-page.php:91
+msgid "days"
+msgstr "ngày"
+
+#: admin/class-woo-coupon-reminder-admin.php:170
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+#: admin/class-woo-coupon-reminder-admin.php:1457
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: admin/class-woo-coupon-reminder-admin.php:221
+msgid "Edit Email"
+msgstr "Sửa Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:214
+msgid "Email Archives"
+msgstr "Lưu trữ Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:215
+msgid "Email Attributes"
+msgstr "Thuộc tính Email"
+
+#: admin/partials/display-detail-email-template-page.php:136
+msgid "Email content"
+msgstr "Nội dung Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:319
+msgid "Email field template"
+msgstr "Trường cài đặt mẫu email"
+
+#: admin/partials/display-detail-email-template-page.php:124
+msgid "Email header"
+msgstr "Tiêu đề Email"
+
+#: admin/partials/display-detail-email-template-page.php:112
+msgid "Email subject"
+msgstr "Chủ đề Email"
+
+#: admin/partials/display-detail-email-template-page.php:106
+msgid "Email template:"
+msgstr "Mẫu Email:"
+
+#: admin/class-woo-coupon-reminder-admin.php:181 
+#: admin/class-woo-coupon-reminder-admin.php:217
+msgid "Email Templates"
+msgstr "Mẫu Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:210 
+#: admin/class-woo-coupon-reminder-admin.php:211
+msgid "Email templates"
+msgstr "Mẫu Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:234
+msgid "Emails list"
+msgstr "Danh sách Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:235
+msgid "Emails list navigation"
+msgstr "Điều hướng danh sách Email"
+
+#: admin/partials/display-detail-email-template-page.php:72
+msgid "Enable email template"
+msgstr "Kích hoạt mẫu Email"
+
+#: admin/partials/display-detail-email-template-page.php:62
+msgid "Enable template"
+msgstr "Kích hoạt mẫu"
+
+#: admin/class-woo-coupon-reminder-admin.php:228
+msgid "Featured Image"
+msgstr "Ảnh Nổi Bật"
+
+#: admin/class-woo-coupon-reminder-admin.php:236
+msgid "Filter items list"
+msgstr "Danh sách sản phẩm lọc"
+
+#: admin/partials/display-detail-email-template-page.php:228
+msgid "Font size:"
+msgstr "Cỡ chữ:"
+
+#: admin/partials/display-detail-email-template-page.php:94
+msgid "Hours"
+msgstr "Giờ"
+
+#: admin/partials/display-detail-email-template-page.php:93
+msgid "hours"
+msgstr "giờ "
+
+#. Author URI of the plugin
+msgid "https://villatheme.com/"
+msgstr "https://villatheme.com/"
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-coupon-reminder/"
+msgstr "https://villatheme.com/extensions/woocommerce-coupon-reminder/"
+
+#: admin/class-woo-coupon-reminder-admin.php:232
+msgid "Insert item"
+msgstr "Chèn mục"
+
+#: admin/partials/display-detail-email-template-page.php:96
+msgid "Minutes"
+msgstr "Phút"
+
+#: admin/partials/display-detail-email-template-page.php:95
+msgid "minutes"
+msgstr "phút "
+
+#: admin/class-woo-coupon-reminder-admin.php:1031
+msgid "never expires"
+msgstr "không bao giờ hết hạn"
+
+#: admin/class-woo-coupon-reminder-admin.php:220
+msgid "New Email"
+msgstr "Email Mới"
+
+#: admin/partials/woo-coupon-reminder-statistics.php:86 
+#: admin/partials/woo-coupon-reminder-schedule.php:131
+msgid "No items found."
+msgstr "Không tìm thấy mục nào"
+
+#: admin/partials/display-detail-email-template-page.php:168
+msgid "None"
+msgstr "Không có"
+
+#: admin/class-woo-coupon-reminder-admin.php:226
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: admin/class-woo-coupon-reminder-admin.php:227
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong Thùng rác"
+
+#: admin/class-woo-coupon-reminder-admin.php:216
+msgid "Parent Email:"
+msgstr "Email Gốc:"
+
+#: admin/class-woo-coupon-reminder-admin.php:153
+msgid ""
+"Please install and activate WooCommerce to use Woocommerce Product Filters "
+"plugin."
+msgstr ""
+"Vui lòng cài đặt và kích hoạt WooCommerce để sử dụng WooCommerce Product "
+"Filters."
+
+#: admin/class-woo-coupon-reminder-admin.php:968
+msgid "Preview emails"
+msgstr "Xem trước email"
+
+#: admin/class-woo-coupon-reminder-admin.php:230
+msgid "Remove featured image"
+msgstr "Xóa ảnh nổi bật"
+
+#: admin/partials/display-detail-email-template-page.php:161
+msgid "Replace content email with:"
+msgstr "Thay thế nội dung email với:"
+
+#: admin/class-woo-coupon-reminder-admin.php:417 
+#: admin/partials/woo-coupon-reminder-schedule.php:26
+msgid "Scan coupons"
+msgstr "Kiểm tra phiếu giảm giá"
+
+#: admin/class-woo-coupon-reminder-admin.php:270 
+#: admin/class-woo-coupon-reminder-admin.php:271 
+#: admin/class-woo-coupon-reminder-admin.php:290
+msgid "Scheduled email"
+msgstr "Email đã lên lịch"
+
+#: admin/class-woo-coupon-reminder-admin.php:225
+msgid "Search Email"
+msgstr "Tìm kiếm Email"
+
+#: admin/partials/display-detail-email-template-page.php:186
+msgid ""
+"Select the template you created in the plugin \"Email Template Customizer "
+"for WooCommerce\" that you want to replace"
+msgstr ""
+"Chọn mẫu email đã được tạo trong plugin \"Email Template Customizer for "
+"WooCommerce\" để thay thế mẫu mặc định"
+
+#: admin/class-woo-coupon-reminder-admin.php:1352
+msgid "Send before"
+msgstr "Gửi trước"
+
+#: admin/class-woo-coupon-reminder-admin.php:229
+msgid "Set featured image"
+msgstr "Thiết lập ảnh nổi bật"
+
+#: admin/class-woo-coupon-reminder-admin.php:1606
+msgid "Shop now"
+msgstr "Mua hàng ngay"
+
+#: admin/class-woo-coupon-reminder-admin.php:279 
+#: admin/class-woo-coupon-reminder-admin.php:280 
+#: admin/class-woo-coupon-reminder-admin.php:302
+msgid "Statistics email"
+msgstr "Thống kê email"
+
+#: admin/class-woo-coupon-reminder-admin.php:435
+msgid "Template"
+msgstr "Mẫu"
+
+#: admin/partials/display-detail-email-template-page.php:237
+msgid "Text Color:"
+msgstr "Màu Chữ:"
+
+#: admin/class-woo-coupon-reminder-admin.php:222
+msgid "Update Email"
+msgstr "Cập nhật Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:233
+msgid "Uploaded to this item"
+msgstr "Đã tải lên mục này"
+
+#: admin/class-woo-coupon-reminder-admin.php:231
+msgid "Use as featured image"
+msgstr "Dùng với vai trò ảnh nổi bật"
+
+#: admin/class-woo-coupon-reminder-admin.php:223
+msgid "View Email"
+msgstr "Xem Email"
+
+#: admin/class-woo-coupon-reminder-admin.php:224
+msgid "View Emails"
+msgstr "Xem Emails"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: admin/partials/woo-coupon-reminder-schedule.php:11 
+#: admin/partials/woo-coupon-reminder-schedule.php:12
+msgid "viwcr_schedule"
+msgstr "viwcr_schedule"
+
+#: admin/partials/woo-coupon-reminder-statistics.php:11 
+#: admin/partials/woo-coupon-reminder-statistics.php:12
+msgid "viwcr_statistics"
+msgstr "viwcr_statistics"
+
+#: admin/class-woo-coupon-reminder-admin.php:1561
+msgid "WooCommerce Coupon Reminders Email"
+msgstr "WooCommerce Coupon Reminders Email"
+
+#: admin/partials/display-detail-email-template-page.php:143
+msgid ""
+"You can use the following shortcodes to add information to the body of an "
+"email:"
+msgstr ""
+"Có thể dùng những mã ngắn (shortcodes) dưới đây để thêm thông tin cho nội "
+"dung email:"
+
+#: admin/partials/display-detail-email-template-page.php:147
+msgid "{coupon_amount} - Shop coupon amount"
+msgstr "{coupon_amount} - Hiện giá trị phiếu giảm giá"
+
+#: admin/partials/display-detail-email-template-page.php:145
+msgid "{coupon_code} - Shop coupon code"
+msgstr "{coupon_code} - Mã giảm giá"
+
+#: admin/partials/display-detail-email-template-page.php:146
+msgid "{coupon_des} - Shop coupon description"
+msgstr "{coupon_des} - Mô tả phiếu giảm giá"
+
+#: admin/partials/display-detail-email-template-page.php:148
+msgid "{coupon_expiry} - Shop coupon expiry"
+msgstr "{coupon_expiry} - Ngày phiếu giảm giá hết hạn"
+
+#: admin/partials/display-detail-email-template-page.php:149
+msgid "{use_coupon_button} - Use Coupon Button"
+msgstr "{use_coupon_button} - Hiện nút Dùng Phiếu Giảm Giá"
+
+#: admin/partials/display-detail-email-template-page.php:120 
+#: admin/partials/display-detail-email-template-page.php:144
+msgid "{viwcr_site_title} - Your site title"
+msgstr "{viwcr_site_title} - Tiêu đề trang web"
